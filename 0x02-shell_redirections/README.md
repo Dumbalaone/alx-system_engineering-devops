@@ -13,4 +13,5 @@
 11-count of directories and subdirectories in current directory include hidden dir
 12-displays 10 newst files,one file per line ,sorted from newest to oldest
 13-takes a list of words as input and prints word that appear exactly once
-14-display pattern of root of root
+14-display pattern of "root" in /etc/passwd
+15-Display the number of lines that contain "bin" in /etc/passwd
