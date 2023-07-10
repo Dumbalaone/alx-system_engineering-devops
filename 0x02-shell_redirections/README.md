@@ -19,3 +19,4 @@
 17-Display line that dont contain pattern "bin" in /etc/passwd
 18-Display all lines of /etc/ssh/sshd_config starting with a letter(includes capital leter)
 19-Replace all characters A and c from input to Z and e respectively
+20-a script that removes all letters c and C from input.
