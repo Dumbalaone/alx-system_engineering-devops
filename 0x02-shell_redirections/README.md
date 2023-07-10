@@ -15,3 +15,4 @@
 13-takes a list of words as input and prints word that appear exactly once
 14-display pattern of "root" in /etc/passwd
 15-Display the number of lines that contain "bin" in /etc/passwd
+16-display line containing pattern "root" and three lines after them
