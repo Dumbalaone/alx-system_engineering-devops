@@ -5,3 +5,5 @@
 3-display content of both /etc/passwd and /etc/hosts
 4-display last line of file
 5-displayfirst ten line /etc/passwd
+6-script that displays the third line of iacta
+7-creates file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) contaiing text Best School
