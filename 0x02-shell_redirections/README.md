@@ -1,1 +1,1 @@
-confusedsmiley-script to output (Ôo)
+2-script that displays /etc/passwd
