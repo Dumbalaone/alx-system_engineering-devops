@@ -11,3 +11,4 @@
 9-Duplicate last line of file iacta
 10-using a wildcard .js
 11-count of directories and subdirectories in current directory include hidden dir
+12-displays 10 newst files,one file per line ,sorted from newest to oldest
