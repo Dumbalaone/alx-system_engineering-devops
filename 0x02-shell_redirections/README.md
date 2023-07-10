@@ -1,1 +1,1 @@
-my redirections readme
+confusedsmiley-script to output (Ôo)
