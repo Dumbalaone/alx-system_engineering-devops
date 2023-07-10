@@ -7,3 +7,4 @@
 5-displayfirst ten line /etc/passwd
 6-script that displays the third line of iacta
 7-creates file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) contaiing text Best School
+8-writes into the file ls_cwd_content
