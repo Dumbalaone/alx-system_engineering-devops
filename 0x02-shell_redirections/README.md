@@ -9,3 +9,4 @@
 7-creates file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) contaiing text Best School
 8-writes into the file ls_cwd_content
 9-Duplicate last line of file iacta
+10-using a wildcard .js
