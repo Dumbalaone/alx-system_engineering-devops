@@ -17,3 +17,4 @@
 15-Display the number of lines that contain "bin" in /etc/passwd
 16-display line containing pattern "root" and three lines after them
 17-Display line that dont contain pattern "bin" in /etc/passwd
+18-Display all lines of /etc/ssh/sshd_config starting with a letter(includes capital leter)
