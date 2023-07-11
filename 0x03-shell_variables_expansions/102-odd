@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 / | cat -n | grep -E '^[[:space:]]*([02468]|10)'
+paste -d, - - | cut -d, -f1
